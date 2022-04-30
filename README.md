@@ -1,11 +1,15 @@
 <h1>TURTLE RACE GAME</h1>
 <hr>
-<img src="https://github.com/frostbyte012/Snakes-2D-in-Python/blob/main/assets/Snakes2D_GIF.gif" alt="Sorry try to reload" width="1000" height="600">
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/Turtle%20demo.gif" alt="Sorry try to reload" width="1000" height="600">
 <hr>
 <br>
-<img src="https://github.com/frostbyte012/Snakes-2D-in-Python/blob/main/assets/Snakes2D_GIF.gif" alt="Sorry try to reload" width="1000" height="600">
+<hr>
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle.png" alt="Sorry try to reload" width="1000" height="600">
+<hr>
 <br>
-<img src="https://github.com/frostbyte012/Snakes-2D-in-Python/blob/main/assets/Snakes2D_GIF.gif" alt="Sorry try to reload" width="1000" height="600">
+<hr>
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle%20working%20demo.png" alt="Sorry try to reload" width="1000" height="600">
+<hr>
 <br>
 
 The turtle is an arcade maze game that was created in the company of Gremlin Industries and published by Sega in the month of October 1976. It is considered an excellent game and has been gaining popularity with the public for many generations.The goal of playing the game is to predict the winner before the actual turtle race.
