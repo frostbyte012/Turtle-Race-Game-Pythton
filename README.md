@@ -8,7 +8,7 @@
 <hr>
 <br>
 <hr>
-<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle%20working%20demo.png" alt="Sorry try to reload" width="1000" height="600">
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle%20working%20demo.png" alt="Sorry try to reload" width="300" height="100">
 <hr>
 <br>
 
