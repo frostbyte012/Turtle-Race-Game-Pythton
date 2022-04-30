@@ -1,10 +1,10 @@
 <h1>TURTLE RACE GAME</h1>
 <hr>
-<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/Turtle%20demo.gif" alt="Sorry try to reload" width="1000" height="600">
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle.png" alt="Sorry try to reload" width="1000" height="600">
 <hr>
 <br>
 <hr>
-<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/turtle.png" alt="Sorry try to reload" width="1000" height="600">
+<img src="https://github.com/frostbyte012/Turtle-Race-Game-Pythton/blob/main/TurtleDemo/Turtle%20demo.gif" alt="Sorry try to reload" width="1000" height="600">
 <hr>
 <br>
 <hr>
